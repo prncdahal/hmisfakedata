@@ -1,0 +1,70 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "patient_id": "78001638",
+      "patient_name": "Ramesh Dahal",
+      "age": "35",
+      "sex": "male",
+      "phone_number": "9843395043",
+      "address": "KATHMANDU, KATHMANDU METROPOLITAN - 10, Bagmati Pradesh",
+      "regd_date": "2079/02/18 10:00:22",
+      "department": "Neuro surgeon",
+      "doctor": "Sworna Pandey"
+    },
+    {
+      "id": 2,
+      "patient_id": "78001637",
+      "patient_name": "Santosh Kumar Shah",
+      "age": "35",
+      "sex": "male",
+      "phone_number": "9843395043",
+      "address": "KATHMANDU, KATHMANDU METROPOLITAN - 10, Bagmati Pradesh",
+      "regd_date": "2079/02/18 10:00:22",
+      "department": "Neuro surgeon",
+      "doctor": "Sworna Pandey"
+    },
+    {
+      "id": 3,
+      "patient_id": "78001636",
+      "patient_name": "Hari Pandey",
+      "age": "35",
+      "sex": "male",
+      "phone_number": "9843395043",
+      "address": "KATHMANDU, KATHMANDU METROPOLITAN - 10, Bagmati Pradesh",
+      "regd_date": "2079/02/18 10:00:22",
+      "department": "Neuro surgeon",
+      "doctor": "Sworna Pandey"
+    },
+    {
+      "id": 4,
+      "patient_id": "78001635",
+      "patient_name": "Nilamber Bhattarai",
+      "age": "35",
+      "sex": "male",
+      "phone_number": "9843395043",
+      "address": "KATHMANDU, KATHMANDU METROPOLITAN - 10, Bagmati Pradesh",
+      "regd_date": "2079/02/18 10:00:22",
+      "department": "Neuro surgeon",
+      "doctor": "Sworna Pandey"
+    },
+    {
+      "id": 5,
+      "patient_id": "78001634",
+      "patient_name": "Sailesh Chaudhary",
+      "age": "35",
+      "sex": "male",
+      "phone_number": "9843395043",
+      "address": "KATHMANDU, KATHMANDU METROPOLITAN - 10, Bagmati Pradesh",
+      "regd_date": "2079/02/18 10:00:22",
+      "department": "Neuro surgeon",
+      "doctor": "Sworna Pandey"
+    }
+  ],
+  "users": [
+    {
+      "username": "midas",
+      "password": "midas123"
+    }
+  ]
+}
